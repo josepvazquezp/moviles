@@ -6,7 +6,7 @@
 - FirestoreListView para mostrar todos los datos
 
 ## Lo que me costo mas trabajo
-- Obtener la cantidad dee mensajes ya que directamente desde el FirestoreListView no era posible fue necesario implementar bloc para llamar un evento y que obtuviera la cantidad de mensajes por cada chat.
+- Obtener la cantidad de mensajes ya que directamente desde el FirestoreListView no era posible fue necesario implementar bloc para llamar un evento y que obtuviera la cantidad de mensajes por cada chat.
 
 ## Lo que aprendi
 - Crear un usuario y guardar su UID
