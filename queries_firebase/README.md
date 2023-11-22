@@ -29,7 +29,7 @@
 - Chear chat con Rufino desde el ususario Juan
 - ![Imagen de WhatsApp 2023-11-22 a las 14 27 15_1789be9a](https://github.com/josepvazquezp/moviles/assets/74749686/55113f48-3115-4fbc-8cf7-c81247548f4c)
 
-- Crear un nuevo mensaje desde el usuario Rufino dentro del chat que tiene con Juan
+- Crear un nuevo mensaje desde el usuario Juan dentro del chat que tiene con Rufino
 - ![Imagen de WhatsApp 2023-11-22 a las 14 27 33_02efa5f8](https://github.com/josepvazquezp/moviles/assets/74749686/36a45e2d-20f5-4422-9f8d-3d13c124f554)
 - ![Imagen de WhatsApp 2023-11-22 a las 14 27 49_dbf47e49](https://github.com/josepvazquezp/moviles/assets/74749686/4710e1df-e0aa-495f-b816-844f97957b48)
 
